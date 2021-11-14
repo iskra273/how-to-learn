@@ -1,0 +1,9 @@
+@import url(../blocks/cards/__image/cards__image.css);
+.cards__image {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-top: 60px;
+  display: block;
+}

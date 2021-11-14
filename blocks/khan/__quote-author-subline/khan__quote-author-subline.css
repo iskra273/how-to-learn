@@ -1,0 +1,10 @@
+@import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
+
+.khan__quote-author-subline {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: left;
+  margin: 0 auto;
+  margin-top: 10px;
+}

@@ -1,0 +1,11 @@
+@import url(../blocks/khan/__quote/khan__quote.css);
+
+.khan__quote {
+  width: 790px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: left;
+  margin: 0;
+  margin-top: 50px;
+}

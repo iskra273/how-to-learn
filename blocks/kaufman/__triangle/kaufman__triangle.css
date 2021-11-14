@@ -1,0 +1,13 @@
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+.kaufman__triangle {
+  width: 877px;
+  height: 877px;
+  background-image: url(../../../images/kaufman-triangle.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  position: absolute;
+  right: -210px;
+  top: 0;
+  z-index: 0;
+}

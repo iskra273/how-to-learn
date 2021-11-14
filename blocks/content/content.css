@@ -1,0 +1,4 @@
+@import url(../blocks/content/content.css);
+.content {
+  display: block;
+}

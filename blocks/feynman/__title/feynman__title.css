@@ -1,0 +1,9 @@
+@import url(../blocks/feynman/__title/feynman__title.css);
+.feynman__title {
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+  width: 648px;
+}

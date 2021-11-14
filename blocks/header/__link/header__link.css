@@ -1,0 +1,14 @@
+@import url(../blocks/header/__link/header__link.css);
+.header__link {
+  color: #2f80ed;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  opacity: 1;
+  transition: transform  0.5s linear;
+}
+
+.header__link:hover {
+  opacity: 0.6;
+}

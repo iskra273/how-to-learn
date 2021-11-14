@@ -1,0 +1,5 @@
+@import url(../blocks/resources/__logo/resources__logo_academy.css);
+
+.resources__logo_academy {
+  background-image: url(../../../images/resources-polka.svg);
+}

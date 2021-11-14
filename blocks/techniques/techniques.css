@@ -1,0 +1,7 @@
+@import url(../blocks/techniques/techniques.css);
+
+.techniques {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
