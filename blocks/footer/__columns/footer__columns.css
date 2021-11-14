@@ -1,4 +1,3 @@
-@import url(../blocks/footer/__columns/footer__columns.css);
 .footer__columns {
   display: flex;
   justify-content: space-around;
