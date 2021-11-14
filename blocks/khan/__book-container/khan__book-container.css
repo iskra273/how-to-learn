@@ -1,5 +1,4 @@
-@import url(blocks/khan/__book-container/khan__book-container.css);
-
+@import url(../blocks/khan/__book-container/khan__book-container.css);
 .khan__book-container {
   display: flex;
   margin: 0 auto;

@@ -1,4 +1,4 @@
-@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../../../blocks/table/_theme/table_theme_dark.css);
 .table_theme_dark {
   position: relative;
   justify-content: space-between;

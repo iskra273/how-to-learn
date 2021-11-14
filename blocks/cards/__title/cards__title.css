@@ -1,4 +1,4 @@
-@import url(../blocks/cards/title.css);
+@import url(../blocks/cards/__title/cards__title.css);
 .cards__title {
   line-height: 1.15;
   font-size: 24px;
