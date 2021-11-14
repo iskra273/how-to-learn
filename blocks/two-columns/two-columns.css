@@ -1,4 +1,3 @@
-@import url(../blocks/two-columns/two-columns.css);
 .two-columns {
   display: flex;
   justify-content: space-between;
