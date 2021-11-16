@@ -5,4 +5,8 @@
   justify-content: flex-start;
   align-items: stretch;
   margin: 0 auto;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+  list-style-type: none;
 }

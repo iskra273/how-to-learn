@@ -1,8 +1,5 @@
 .table_theme_dark {
   position: relative;
-  justify-content: space-between;
-  margin: 0 auto;
   z-index: 1;
   padding: 0;
-  margin-bottom: 90px;
 }

@@ -12,7 +12,3 @@
   opacity: 1;
   transition: transform  0.5s linear;
 }
-
-.footer__column-links:hover {
-  opacity: 0.6;
-}
